@@ -7,7 +7,6 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from streamlit_option_menu import option_menu
 
-SEOUL_PUBLIC_API = st.secrets["api_credentials"]["SEOUL_PUBLIC_API"]
 MAIL_KEY = st.secrets["api_credentials"]["MAIL_KEY"]
 
 @st.cache_data
