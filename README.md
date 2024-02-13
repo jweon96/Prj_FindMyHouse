@@ -20,7 +20,7 @@
 
 # 데모페이지
 - Streamlit에서 구현한 Demo는 다음과 같습니다.
-  + [https://apiproject2402.streamlit.app/](https://apiproject2402.streamlit.app/)
+  + [https://prjfindmyhouse-urcyg95ijawm9pjm4bbrzq.streamlit.app/](https://prjfindmyhouse-urcyg95ijawm9pjm4bbrzq.streamlit.app/)
  
 
  # 주요 기능
